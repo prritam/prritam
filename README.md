@@ -6,6 +6,5 @@
                        priitam47@gmail.com |
                        https://www.linkedin.com/in/pritam-mane03/
   
-- 🐱‍👤 Coding Contests Participated : CodeForce weekly Round |
-                                LeetCode Weekly Contests. 
+
 
